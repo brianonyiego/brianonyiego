@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianonyiego
 - 👀 I’m interested in  coding 
-- 🌱 I’m currently learning mathematics in  computer science
+- 🌱 I’m currently learning mathematics and computer science
 - 💞️ I’m looking to collaborate with every coder in Github
 - 📫 How to reach me ...
 
